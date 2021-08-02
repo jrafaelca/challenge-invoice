@@ -1,0 +1,4 @@
+// Este comando creara una copia nueva del framework
+composer create-project laravel/laravel new-app
+
+// Con este comando nos desplazamos al dir
